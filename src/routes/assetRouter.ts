@@ -1,5 +1,5 @@
 import { Router } from "express";
-import { getAssetByCpf } from "../services/assetService.js";
+import { getAssetByCpf } from "../services/assetService";
 
 export const assetRouter = Router();
 

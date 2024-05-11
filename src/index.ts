@@ -1,5 +1,5 @@
 import express from "express";
-import { assetRouter } from "./routes/assetRouter.js";
+import { assetRouter } from "./routes/assetRouter";
 
 const app = express();
 app.use(express.json());
