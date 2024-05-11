@@ -2,7 +2,7 @@
   "name": "maguma-api",
   "version": "1.0.0",
   "description": "",
-  "main": "build/app.js",
+  "main": "build/index.js",
   "scripts": {
     "start": "npx tsc && node --watch .",
     "build": "tsc"
